@@ -1,16 +1,14 @@
-### Hi there 👋
+### Boas vindas ao meu perfil ♥️
 
-<!--
-**Jojofan0902/Jojofan0902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Rayssa Vitória
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JacaScript
+- Utilizo esse espaço para mina organição e para compartilhamento dos meus projetos desenvolvidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### Você pode entrar em contato comigo por 📬
+
+ @ray_ssa0902
+
+
+![](https://media.tenor.com/C-S8dtjO6EcAAAAC/jojos-bizarre-adventures-jjba.gif)
